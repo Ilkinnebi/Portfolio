@@ -52,5 +52,6 @@ This repository includes but is not limited to the following topics:
 - 💼 Prepare for system administration jobs  
 - 🧠 Use as a personal knowledge base
 
-
+> ⚙️ This repository is regularly updated with new Linux tasks and configurations.  
+> The file structure may grow, but the base README will remain unchanged.
 
