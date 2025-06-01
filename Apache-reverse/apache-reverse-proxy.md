@@ -20,8 +20,8 @@ vim domain.conf
     DocumentRoot /var/www/domain2
 </VirtualHost>
 
-curl -H "Host: domain1" http://127.0.0.1
-curl -H "Host: domain2" http://127.0.0.1
+curl -H "Host: domain1" http://ip
+curl -H "Host: domain2" http://ip
 
 Its domain1
 Its domain2
