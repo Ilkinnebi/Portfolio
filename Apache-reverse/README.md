@@ -56,8 +56,8 @@ Add the following content:
 Use curl with custom Host headers:
 
 ```bash
-curl -H "Host: domain1" http://127.0.0.1
-curl -H "Host: domain2" http://127.0.0.1
+curl -H "Host: domain1" http://ip
+curl -H "Host: domain2" http://ip
 ```
 
 Expected output:
